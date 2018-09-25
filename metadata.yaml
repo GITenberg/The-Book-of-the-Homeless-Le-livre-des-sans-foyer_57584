@@ -10,7 +10,7 @@ contributor:
     - Gosse, Edmund William, Sir
     - Gosse, Edmund W. (Edmund William)
     birthdate: 1849
-    deathdate: &id003 1928
+    deathdate: 1928
     gutenberg_agent_id: '959'
     url: http://www.gutenberg.org/2009/agents/959
     wikipedia: http://en.wikipedia.org/wiki/Edmund_Gosse
@@ -19,13 +19,13 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/49471
   - agent_name: Gibson, Charles Dana
     alias: Gibson, C. D. (Charles Dana)
-    birthdate: &id001 1867
+    birthdate: 1867
     deathdate: 1944
     gutenberg_agent_id: '26456'
     url: http://www.gutenberg.org/2009/agents/26456
     wikipedia: http://en.wikipedia.org/wiki/Charles_Dana_Gibson
   - agent_name: Repplier, Agnes
-    birthdate: &id005 1855
+    birthdate: 1855
     deathdate: 1950
     gutenberg_agent_id: '6888'
     url: http://www.gutenberg.org/2009/agents/6888
@@ -53,7 +53,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/49475
   - agent_name: Galsworthy, John
     alias: Sinjohn, John
-    birthdate: *id001
+    birthdate: 1867
     deathdate: 1933
     gutenberg_agent_id: '850'
     url: http://www.gutenberg.org/2009/agents/850
@@ -68,7 +68,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/729
     wikipedia: http://en.wikipedia.org/wiki/Theodore_Roosevelt
   - agent_name: Jammes, Francis
-    birthdate: &id002 1868
+    birthdate: 1868
     deathdate: 1938
     gutenberg_agent_id: '4702'
     url: http://www.gutenberg.org/2009/agents/4702
@@ -76,15 +76,15 @@ contributor:
     - http://fr.wikipedia.org/wiki/Francis_Jammes
     - http://en.wikipedia.org/wiki/Francis_Jammes
   - agent_name: Rostand, Edmond
-    birthdate: *id002
+    birthdate: 1868
     deathdate: 1918
     gutenberg_agent_id: '575'
     url: http://www.gutenberg.org/2009/agents/575
     wikipedia: http://en.wikipedia.org/wiki/Edmond_Rostand
   - agent_name: Yeats, W. B. (William Butler)
     alias: Yeats, William Butler
-    birthdate: &id006 1865
-    deathdate: &id011 1939
+    birthdate: 1865
+    deathdate: 1939
     gutenberg_agent_id: '1719'
     url: http://www.gutenberg.org/2009/agents/1719
     wikipedia: http://en.wikipedia.org/wiki/William_Butler_Yeats
@@ -98,14 +98,14 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/5805
     wikipedia: http://en.wikipedia.org/wiki/George_Santayana
   - agent_name: Hardy, Thomas
-    birthdate: &id015 1840
-    deathdate: *id003
+    birthdate: 1840
+    deathdate: 1928
     gutenberg_agent_id: '23'
     url: http://www.gutenberg.org/2009/agents/23
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Hardy
   - agent_name: Brooke, Rupert
     birthdate: 1887
-    deathdate: &id004 1915
+    deathdate: 1915
     gutenberg_agent_id: '148'
     url: http://www.gutenberg.org/2009/agents/148
     wikipedia: http://en.wikipedia.org/wiki/Rupert_Brooke
@@ -129,8 +129,8 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/49476
   - agent_name: Hervieu, Paul
     alias: Hervieu, Paul Ernest
-    birthdate: &id008 1857
-    deathdate: *id004
+    birthdate: 1857
+    deathdate: 1915
     gutenberg_agent_id: '39169'
     url: http://www.gutenberg.org/2009/agents/39169
     wikipedia: http://en.wikipedia.org/wiki/Paul_Hervieu
@@ -138,8 +138,8 @@ contributor:
     aliases:
     - Verhaeren, Émile
     - Verhaeren, Emile
-    birthdate: *id005
-    deathdate: &id014 1916
+    birthdate: 1855
+    deathdate: 1916
     gutenberg_agent_id: '3287'
     url: http://www.gutenberg.org/2009/agents/3287
     wikipedia:
@@ -149,17 +149,17 @@ contributor:
     gutenberg_agent_id: '49484'
     url: http://www.gutenberg.org/2009/agents/49484
   - agent_name: Trench, Herbert
-    birthdate: *id006
-    deathdate: &id007 1923
+    birthdate: 1865
+    deathdate: 1923
     gutenberg_agent_id: '43814'
     url: http://www.gutenberg.org/2009/agents/43814
-  - &id018
+  - &id001
     agent_name: Wharton, Edith
     aliases:
     - Olivieri, David
     - Wharton, Edith Newbold Jones
-    birthdate: &id009 1862
-    deathdate: &id013 1937
+    birthdate: 1862
+    deathdate: 1937
     gutenberg_agent_id: '104'
     url: http://www.gutenberg.org/2009/agents/104
     wikipedia:
@@ -171,7 +171,7 @@ contributor:
   - agent_name: Bernhardt, Sarah
     alias: Bernhardt, Rosine Bernard Damala
     birthdate: 1844
-    deathdate: *id007
+    deathdate: 1923
     gutenberg_agent_id: '2332'
     url: http://www.gutenberg.org/2009/agents/2332
     wikipedia: http://en.wikipedia.org/wiki/Sarah_Bernhardt
@@ -180,7 +180,7 @@ contributor:
     - Korzeniowski, Józef Konrad Teodor
     - Korzeniowski, Jozef Konrad Teodor
     - Korzeniowski, Joseph Conrad Theodore
-    birthdate: *id008
+    birthdate: 1857
     deathdate: 1924
     gutenberg_agent_id: '125'
     url: http://www.gutenberg.org/2009/agents/125
@@ -189,8 +189,8 @@ contributor:
     aliases:
     - Barrès, M. (Maurice)
     - Barres, Maurice
-    birthdate: *id009
-    deathdate: *id007
+    birthdate: 1862
+    deathdate: 1923
     gutenberg_agent_id: '6948'
     url: http://www.gutenberg.org/2009/agents/6948
     wikipedia:
@@ -198,12 +198,12 @@ contributor:
     - http://fr.wikipedia.org/wiki/Maurice_Barrès
   - agent_name: Sargent, John Singer
     alias: Sargent, John S.
-    birthdate: &id010 1856
+    birthdate: 1856
     deathdate: 1925
     gutenberg_agent_id: '36606'
     url: http://www.gutenberg.org/2009/agents/36606
   - agent_name: Maeterlinck, Maurice
-    birthdate: *id009
+    birthdate: 1862
     deathdate: 1949
     gutenberg_agent_id: '795'
     url: http://www.gutenberg.org/2009/agents/795
@@ -212,7 +212,7 @@ contributor:
     aliases:
     - Regnier, Henri Francois Joseph de
     - Régnier, Henri François Joseph de
-    birthdate: &id012 1864
+    birthdate: 1864
     deathdate: 1936
     gutenberg_agent_id: '25926'
     url: http://www.gutenberg.org/2009/agents/25926
@@ -228,7 +228,7 @@ contributor:
     - Thompson, A. C. (Alice Christiana)
     - Meynell, Alice Christiana Thompson
     birthdate: 1847
-    deathdate: &id016 1922
+    deathdate: 1922
     gutenberg_agent_id: '546'
     url: http://www.gutenberg.org/2009/agents/546
     wikipedia: http://en.wikipedia.org/wiki/Alice_Meynell
@@ -255,22 +255,22 @@ contributor:
     aliases:
     - Martin, E. S. (Edward Sandford)
     - Martin, Edward Sanford
-    birthdate: *id010
-    deathdate: *id011
+    birthdate: 1856
+    deathdate: 1939
     gutenberg_agent_id: '39037'
     url: http://www.gutenberg.org/2009/agents/39037
   - agent_name: Bourget, Paul
     aliases:
     - Bourget, Charles Joseph Paul
     - Bourget, Paul Charles Joseph
-    birthdate: &id017 1852
+    birthdate: 1852
     deathdate: 1935
     gutenberg_agent_id: '1346'
     url: http://www.gutenberg.org/2009/agents/1346
     wikipedia: http://en.wikipedia.org/wiki/Paul_Bourget
   - agent_name: More, Paul Elmer
-    birthdate: *id012
-    deathdate: *id013
+    birthdate: 1864
+    deathdate: 1937
     gutenberg_agent_id: '32068'
     url: http://www.gutenberg.org/2009/agents/32068
   - agent_name: Joffre, Général Joseph
@@ -278,19 +278,19 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/49479
   - agent_name: James, Henry
     birthdate: 1843
-    deathdate: *id014
+    deathdate: 1916
     gutenberg_agent_id: '113'
     url: http://www.gutenberg.org/2009/agents/113
     wikipedia: http://en.wikipedia.org/wiki/Henry_James
   - agent_name: Woods, Margaret L. (Margaret Louisa)
     alias: Woods, M. L. (Margaret Louisa)
-    birthdate: *id010
+    birthdate: 1856
     deathdate: 1945
     gutenberg_agent_id: '33171'
     url: http://www.gutenberg.org/2009/agents/33171
     wikipedia: http://en.wikipedia.org/wiki/Margaret_Louisa_Woods
   - agent_name: Claudel, Paul
-    birthdate: *id002
+    birthdate: 1868
     deathdate: 1955
     gutenberg_agent_id: '43686'
     url: http://www.gutenberg.org/2009/agents/43686
@@ -298,7 +298,7 @@ contributor:
     aliases:
     - Rodin, François Auguste
     - Rodin, Francois Auguste
-    birthdate: *id015
+    birthdate: 1840
     deathdate: 1917
     gutenberg_agent_id: '45965'
     url: http://www.gutenberg.org/2009/agents/45965
@@ -314,12 +314,12 @@ contributor:
   - agent_name: Peabody, Josephine Preston
     alias: Marks, Mrs. Lionel
     birthdate: 1874
-    deathdate: *id016
+    deathdate: 1922
     gutenberg_agent_id: '3012'
     url: http://www.gutenberg.org/2009/agents/3012
     wikipedia: http://en.wikipedia.org/wiki/Josephine_Preston_Peabody
   - agent_name: Grant, Robert
-    birthdate: *id017
+    birthdate: 1852
     deathdate: 1940
     gutenberg_agent_id: '2515'
     url: http://www.gutenberg.org/2009/agents/2515
@@ -331,9 +331,14 @@ contributor:
     gutenberg_agent_id: '397'
     url: http://www.gutenberg.org/2009/agents/397
     wikipedia: http://en.wikipedia.org/wiki/Max_Beerbohm
+covers:
+- cover_type: archival
+  image_path: 57584-h/images/cover_lg.jpg
 creator:
-  editor: *id018
+  editor: *id001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57584#The-Book-of-the-Homeless-Le-livre-des-sans-foyer
 gutenberg_issued: '2018-07-27'
 gutenberg_type: Text
 identifiers:
